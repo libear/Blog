@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f21e5835-1802-457e-98fd-d01be93c3439" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+    </list>
+    <list id="37a505ff-a0e2-4b69-a33d-f935ea05f24d" name="refactor: 替换CSS CDN地址" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1fcYTC3tjiHQlt5QRfTwvkoqza6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f21e5835-1802-457e-98fd-d01be93c3439" name="Default Changelist" comment="" />
+      <created>1596518853922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596518853922</updated>
+      <workItem from="1596518855080" duration="1984000" />
+      <workItem from="1596520856484" duration="33000" />
+      <workItem from="1596520939953" duration="189000" />
+      <workItem from="1596521161427" duration="2049000" />
+      <workItem from="1596523497995" duration="2469000" />
+    </task>
+    <task id="LOCAL-00001" summary="refactor: 重构部分代码">
+      <created>1596522652856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596522652856</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactor: 重构部分代码">
+      <created>1596523308518</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596523308518</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docs: update tags">
+      <created>1596523751093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596523751093</updated>
+    </task>
+    <task id="LOCAL-00004" summary="docs: update">
+      <created>1596524202049</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596524202049</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactor: 增加置顶功能">
+      <created>1596524799740</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596524799740</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor: 更新博客图片路径">
+      <created>1596525478433</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596525478433</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor: 更新 disqus_username">
+      <created>1596526004160</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596526004160</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="refactor: 重构部分代码" />
+    <MESSAGE value="docs: update tags" />
+    <MESSAGE value="docs: update" />
+    <MESSAGE value="refactor: 增加置顶功能" />
+    <MESSAGE value="refactor: 更新博客图片路径" />
+    <MESSAGE value="refactor: 更新 disqus_username" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: 更新 disqus_username" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="168" y="94" key="DiffContextDialog" timestamp="1596523759447">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="168" y="94" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596523759447" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1596526006114">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596526006114" />
+    <state x="430" y="201" width="1005" height="676" key="find.popup" timestamp="1596591724171">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="430" y="201" width="1005" height="676" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1596591724171" />
+  </component>
+</project>
