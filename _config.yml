@@ -1,11 +1,11 @@
 # Site settings
 title: libearxiong
-SEOTitle: libearxiong的博客 | cody1991 Blog
+SEOTitle: libearxiong的博客 | libearxiong Blog
 header-img: img/home-bg.jpg
 email: 476490767@qq.com
-description: "cody1991的博客"
-keyword: "cody1991, blog"
-url: "https://cody1991.cn" # your host, for absolute URL
+description: "libearxiong的博客"
+keyword: "libearxiong, blog"
+url: "https://libearxiong.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: cody1991
-zhihu_username: cody1991
-github_username: cody1991
-twitter_username: cody19910828
-facebook_username: zexiong.tang
+weibo_username: libearxiong
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -58,7 +54,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: cody1991-blog
+disqus_username: libearxiong-blog
 
 # Netease settings
 netease_comment: false
@@ -69,12 +65,12 @@ netease_comment: false
 
 # Google Analytics
 # ga_track_id: 'UA-174490217-1'            # Format: UA-xxxxxx-xx
-# ga_domain: cody1991.netlify.app
+# ga_domain: libearxiong.netlify.app
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/cody1991.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/libearxiong.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
